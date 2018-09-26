@@ -1,3 +1,3 @@
 class Preference < ActiveRecord::Base
-  belongs_to :artists
+  belong_to :artists
 end
